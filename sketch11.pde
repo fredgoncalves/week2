@@ -1,7 +1,8 @@
+int   x = 0;
+
 void setup(){
   size(200,200);
   background(0);
-  x = 0;
   frameRate(20);
 }
 
